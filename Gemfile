@@ -8,7 +8,7 @@ gem 'foreman'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-group development:do
+group :development do
 	gem 'sqlite3' ,'1.3.5'
 end
 
